@@ -12,6 +12,7 @@ public class MyClient {
             s.close();
         } catch (Exception e) {
             System.out.println(e);
+	    System.out.println("make changes in code");
         }
     }
 }
